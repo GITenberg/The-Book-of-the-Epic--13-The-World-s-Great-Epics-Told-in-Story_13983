@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '5313'
     url: http://www.gutenberg.org/2009/agents/5313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13983#The-Book-of-the-Epic--13-The-World-s-Great-Epics-Told-in-Story
 gutenberg_issued: '2004-11-08'
 gutenberg_type: Text
 identifiers:
